@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<salesTable>
+	<sale>
+		<model>Škoda Oktávia</model>
+		<date>
+			<day>2</day>
+			<month>12</month>
+			<year>2010</year>
+		</date>
+		<price>500000</price>
+		<dph>20</dph>
+	</sale>
+	<sale>
+		<model>Škoda Felicia</model>
+		<date>
+			<day>3</day>
+			<month>12</month>
+			<year>2000</year>
+		</date>
+		<price>210000</price>
+		<dph>20</dph>
+	</sale>
+	<sale>
+		<model>Škoda Fabia</model>
+		<date>
+			<day>4</day>
+			<month>12</month>
+			<year>2010</year>
+		</date>
+		<price>350000</price>
+		<dph>20</dph>
+	</sale>
+	<sale>
+		<model>Škoda Oktávia</model>
+		<date>
+			<day>4</day>
+			<month>12</month>
+			<year>2010</year>
+		</date>
+		<price>500000</price>
+		<dph>20</dph>
+	</sale>
+	<sale>
+		<model>Škoda Oktávia</model>
+		<date>
+			<day>5</day>
+			<month>12</month>
+			<year>2010</year>
+		</date>
+		<price>500000</price>
+		<dph>20</dph>
+	</sale>
+	<sale>
+		<model>Škoda Fabia</model>
+		<date>
+			<day>5</day>
+			<month>12</month>
+			<year>2010</year>
+		</date>
+		<price>350000</price>
+		<dph>20</dph>
+	</sale>
+	<sale>
+		<model>Škoda Fabia</model>
+		<date>
+			<day>6</day>
+			<month>12</month>
+			<year>2010</year>
+		</date>
+		<price>350000</price>
+		<dph>20</dph>
+	</sale>
+	<sale>
+		<model>Škoda Forman</model>
+		<date>
+			<day>4</day>
+			<month>12</month>
+			<year>2000</year>
+		</date>
+		<price>100000</price>
+		<dph>19</dph>
+	</sale>
+	<sale>
+		<model>Škoda Favorit</model>
+		<date>
+			<day>5</day>
+			<month>12</month>
+			<year>2000</year>
+		</date>
+		<price>80000</price>
+		<dph>19</dph>
+	</sale>
+	<sale>
+		<model>Škoda Forman</model>
+		<date>
+			<day>6</day>
+			<month>12</month>
+			<year>2000</year>
+		</date>
+		<price>100000</price>
+		<dph>19</dph>
+	</sale>
+	<sale>
+		<model>Škoda Felicia</model>
+		<date>
+			<day>3</day>
+			<month>12</month>
+			<year>2000</year>
+		</date>
+		<price>210000</price>
+		<dph>19</dph>
+	</sale>
+	<sale>
+		<model>Škoda Felicia</model>
+		<date>
+			<day>2</day>
+			<month>12</month>
+			<year>2000</year>
+		</date>
+		<price>210000</price>
+		<dph>19</dph>
+	</sale>
+	<sale>
+		<model>Škoda Oktávia</model>
+		<date>
+			<day>7</day>
+			<month>12</month>
+			<year>2010</year>
+		</date>
+		<price>500000</price>
+		<dph>20</dph>
+	</sale>
+</salesTable>
