@@ -16,10 +16,10 @@ namespace CarSalesViewer
         public SaleDate Date { get; set; }
 
         [XmlElement("price")]
-        public double Price { get; set;}
+        public double Price { get; set; }
 
         [XmlElement("dph")]
-        public double Dph { get; set;}
+        public double Dph { get; set; }
 
         public Sale()
         {

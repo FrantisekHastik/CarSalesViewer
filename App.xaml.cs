@@ -9,9 +9,6 @@ using System.Xml.Serialization;
 
 namespace CarSalesViewer
 {
-    /// <summary>
-    /// Interaction logic for App.xaml
-    /// </summary>
     public partial class App : Application
     {
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Frantisek\\Documents\\__Desktop content__\\Inf\\CarSalesViewer\\CarSalesViewer.csproj": {}
+    "C:\\Users\\Frantisek\\Documents\\__Desktop content__\\Inf\\CarSalesViewer\\CarSalesViewer\\CarSalesViewer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Frantisek\\Documents\\__Desktop content__\\Inf\\CarSalesViewer\\CarSalesViewer.csproj": {
+    "C:\\Users\\Frantisek\\Documents\\__Desktop content__\\Inf\\CarSalesViewer\\CarSalesViewer\\CarSalesViewer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Frantisek\\Documents\\__Desktop content__\\Inf\\CarSalesViewer\\CarSalesViewer.csproj",
+        "projectUniqueName": "C:\\Users\\Frantisek\\Documents\\__Desktop content__\\Inf\\CarSalesViewer\\CarSalesViewer\\CarSalesViewer.csproj",
         "projectName": "CarSalesViewer",
-        "projectPath": "C:\\Users\\Frantisek\\Documents\\__Desktop content__\\Inf\\CarSalesViewer\\CarSalesViewer.csproj",
+        "projectPath": "C:\\Users\\Frantisek\\Documents\\__Desktop content__\\Inf\\CarSalesViewer\\CarSalesViewer\\CarSalesViewer.csproj",
         "packagesPath": "C:\\Users\\Frantisek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Frantisek\\Documents\\__Desktop content__\\Inf\\CarSalesViewer\\obj\\",
+        "outputPath": "C:\\Users\\Frantisek\\Documents\\__Desktop content__\\Inf\\CarSalesViewer\\CarSalesViewer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
